@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
+	"github.com/lyderx05/log"
 	"github.com/pkg/errors"
-	"github.com/rockbears/log"
 	"github.com/sirupsen/logrus"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
